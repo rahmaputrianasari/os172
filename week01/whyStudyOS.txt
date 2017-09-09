@@ -1,1 +1,6 @@
 #ostutorial
+
+1. to know how the Operating System works and its fetures
+2. have a knowledge to optimize the software
+3. learn new programming language
+4. have experience to handling simple troubleshooting
