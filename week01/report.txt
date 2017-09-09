@@ -1,0 +1,4 @@
+#learn how to move a file to other folder
+#to know how to check our current directory
+#learn using vi
+#learn how to pull the changes from github to keep our files up to date
